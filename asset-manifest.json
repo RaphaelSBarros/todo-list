@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RaphaelSBarros/todo-list.git/static/css/main.e6c13ad2.css",
+    "main.js": "/RaphaelSBarros/todo-list.git/static/js/main.fb14a15f.js",
+    "static/js/787.30b79000.chunk.js": "/RaphaelSBarros/todo-list.git/static/js/787.30b79000.chunk.js",
+    "index.html": "/RaphaelSBarros/todo-list.git/index.html",
+    "main.e6c13ad2.css.map": "/RaphaelSBarros/todo-list.git/static/css/main.e6c13ad2.css.map",
+    "main.fb14a15f.js.map": "/RaphaelSBarros/todo-list.git/static/js/main.fb14a15f.js.map",
+    "787.30b79000.chunk.js.map": "/RaphaelSBarros/todo-list.git/static/js/787.30b79000.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.fb14a15f.js"
+  ]
+}
