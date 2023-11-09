@@ -2,6 +2,7 @@
   "name": "todo-list",
   "version": "0.1.0",
   "private": true,
+  "type": "module",
   "homepage": "https://github.com/RaphaelSBarros/todo-list",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
