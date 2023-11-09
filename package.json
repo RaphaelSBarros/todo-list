@@ -2,7 +2,7 @@
   "name": "todo-list",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/RaphaelSBarros/todo-list.git",
+  "homepage": "https://github.com/RaphaelSBarros/todo-list",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -22,7 +22,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "deploy": "gh-pages -d dist -r git@github.com:RaphaelSBarros/todo-list.git",
+    "deploy": "gh-pages -d build -r git@github.com:RaphaelSBarros/todo-list.git",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
